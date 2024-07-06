@@ -1,5 +1,5 @@
 ## 基本情報
-氏名: 赤塚啓紀
+氏名: 赤塚啓紀<br>
 生年月日: 1998年3月5日
 
 <p align="left"> 
@@ -13,6 +13,8 @@
 - Speaker Deck: [akinoriakatsuka](https://speakerdeck.com/akinoriakatsuka)
 
 ## 職歴
+
+職務経歴書は[こちら](https://github.com/akinoriakatsuka/resume)
 
 ### 株式会社オフショア
 - 勤務期間: 2023年4月 - 現在
@@ -44,3 +46,14 @@
 - PHPカンファレンス福岡2024
   - [composer dump-autoloadを「なんとなく使う」から「理解して使う」になる](https://fortee.jp/phpcon-fukuoka-2024/proposal/a1d15935-6af2-4366-885b-7c31d2ead5c6)
   - [スライド](https://speakerdeck.com/akinoriakatsuka/composer-dump-autoloadwo-nantonakushi-u-kara-li-jie-siteshi-u-ninaru)
+
+## 興味・関心
+- PHP
+  - Laravel
+  - 静的解析
+- データベース設計
+- プロジェクトマネジメント
+- アジャイル開発
+  - スクラム
+- 組織開発
+- コミュニティ運営

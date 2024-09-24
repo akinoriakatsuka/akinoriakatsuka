@@ -1,12 +1,3 @@
-## 基本情報
-氏名: 赤塚啓紀<br>
-生年月日: 1998年3月5日
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinoriakatsuka&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akinoriakatsuka&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
 ## 各種アカウント
 - X: [aki_artisan](https://twitter.com/aki_artisan)
 - GitHub: [akinoriakatsuka](https://github.com/akinoriakatsuka/)
